@@ -1,0 +1,22 @@
+Module 2 - Git Bash
+Written by. Jahaziel Ben Israel
+
+========================================
+
+a) What is Git and how is it different than Github?
+
+Git is the most commonly used version control system for developers globally. It is a tool for tracking changes to the folders and files of your code over time. It allows you to view and compare these changes to multiple people on a team in a single place.
+
+Github is kind of like a marketplace for developers to host their git repositories, and it is also a way for developers to attract attention to their portfolios and attract job.  Github is also a collaborative tool for teams to be able to work on their projects and track changes and history of the code they are working on.
+
+b) Why use the terminal?
+
+Why not use the terminal? If you consider yourself a coder, than it is imperative that you learn to speak directly to the computer.  Terminal use is also a more efficient way to access and create files without having to deal with a GUI interface, and to keep your hands on the keyboard. 
+
+c) Explain 3 benefits of version control in your own words?
+
+1. Version control allows you to keep a detailed history of all of the changes made to the repository and code over time.
+2. Version control allows multiple people to work on a project without risking or committing to any changes without testing or approvals.
+3. Version control allows developers to track their progress and showcase their growth and development as a professional. 
+
+
