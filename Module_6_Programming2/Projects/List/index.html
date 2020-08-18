@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="todolist.css">
+  </head>
+  <body>
+    <div class="header">
+      <h2 style="margin:5px">BlaqueBeardCoder's To Do List</h2>
+      <input type="text" id="myInput" placeholder="Title...">
+      <span onclick="newElement()" class="addBtn">Add</span>
+    </div>
+    <ul id="myUL">
+      <li class="checked">Go through TKH's JavaScript tutorials</li>
+      <li>Practice coding for 30 minutes</li>
+      <li>Read Jon Duckett's book on JavaScript</li>
+      <li class="checked">Organize my notes</li>
+      <li>Create JavaScript projects</li>
+      <li>Pass the TKH vestibule</li>
+      <li>Comprehend interview questions</li>
+    </ul>
+    <button type="button" id="clear-list" onclick="removeAll()">Clear Items</button>
+    <script type="text/javascript" src="todolist.js"></script>
+  </body>
+  <footer>
+    <p>Copyright 2020 | Author: BlaqueBeardCoder<br>
+    <a href="mailto:blaquebeardcoder@gmail.com">blaquebeardcoder@gmail.com</a></p>
+  </footer>
+</html>
